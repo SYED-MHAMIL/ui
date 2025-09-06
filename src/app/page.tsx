@@ -1,7 +1,6 @@
 'use client'
 import Image from "next/image";
 import { CiCircleCheck } from "react-icons/ci";
-import { useState } from "react";
 
 export default function Home() {
   return (
@@ -29,13 +28,13 @@ export default function Home() {
           Building Exceptional
           <br />User Experience
         </h1>
-        <p className="max-w-md text-neutral-400">Creating an exceptional user experience means designing products that are simple, intuitive, and enjoyable to use. It’s about understanding user needs, removing unnecessary complexity, and ensuring every interaction feels seamless. A great user experience not only solves problems but also leaves users feeling satisfied, valued, and engaged.</p>
+        <p className="max-w-md text-neutral-400">Creating an exceptional user experience means designing products that are simple, intuitive, and enjoyable to use. It&apos;s about understanding user needs, removing unnecessary complexity, and ensuring every interaction feels seamless. A great user experience not only solves problems but also leaves users feeling satisfied, valued, and engaged.</p>
 
        <div className="">
         <button className="text-neutral-200 border border-neutral-400 py-1 text-sm mr-1 px-3 rounded">Explore my work</button>
         <button className="text-neutral-900 border text-sm border-neutral-900 bg-white py-1 ml-1 px-3 rounded">
           <span>👋 </span>
-          Let's connect
+          Let&apos;s connect
         </button>
        </div>
 
@@ -237,9 +236,9 @@ export default function Home() {
          {/*  */}
     <section className="max-w-6xl mt-20 mx-auto px-10">
     <div className="space-y-3 mt-2">
-       <h5 className="text-sm bg-gradient-to-l from-emerald-300 to-cyan-400 text-center bg-clip-text text-transparent">HAPPY CLIENT'S</h5>
+       <h5 className="text-sm bg-gradient-to-l from-emerald-300 to-cyan-400 text-center bg-clip-text text-transparent">HAPPY CLIENT&apos;S</h5>
        <h1 className="text-center text-5xl font-bold  bg-gradient-to-l from-gray-500 to-white bg-clip-text text-transparent">What Clients Say About Me</h1>
-       <p className="text-sm text-neutral-300 line-clamp-3 text-center ">Don't just take my word for it <br /> See What have to say about my work</p>
+       <p className="text-sm text-neutral-300 line-clamp-3 text-center ">Don&apos;t just take my word for it <br /> See What have to say about my work</p>
         </div>
      
      <main className="mt-10  grid md:grid-cols-2 lg:grid-cols-3 gap-4">
