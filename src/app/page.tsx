@@ -141,97 +141,20 @@ export default function Home() {
        </main>
 
       </section>
-         <section className="mt-20 -rotate-2 bg-gray-900">
-          <marquee className='bg-gradient-to-l from-emerald-300 to-cyan-300 py-4 '>
-                <span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span>
-                <span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span>
-                <span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span>
-                <span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span>
+       <section className="mt-20 -rotate-2 bg-gradient-to-l from-emerald-300 to-cyan-300 py-4 overflow-hidden">
+  <div className="whitespace-nowrap animate-marquee ">
+    <span className="font-bold text-black mx-4">SECURE ✮ ❂</span>
+    <span className="font-bold text-black mx-4">SECURE ✮ ❂</span>
+    <span className="font-bold text-black mx-4">SECURE ✮ ❂</span>
+    <span className="font-bold text-black mx-4">SECURE ✮ ❂</span>
+    <span className="font-bold text-black mx-4">SECURE ✮ ❂</span>
+    <span className="font-bold text-black mx-4">SECURE ✮ ❂</span>
+    <span className="font-bold text-black mx-4">SECURE ✮ ❂</span>
+    <span className="font-bold text-black mx-4">SECURE ✮ ❂</span>
+    <span className="font-bold text-black mx-4">SECURE ✮ ❂</span>
+  </div>
+</section>
 
-                <span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span><span className="font-bold text-black">
-                  SECURE
-                  ✮ ❂
-                </span>
-          </marquee>
-         </section>
 
          {/*  */}
     <section className="max-w-6xl mt-20 mx-auto px-10">
